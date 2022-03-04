@@ -1,4 +1,3 @@
-# The guidance of bioinfomatics
-> This is a repo for recordings of the general homework in the course of **The Guidance of Bioinformatics** taught by Zhi Lu in Tsinghus University.
-
-Hello world!
+# Bioinformatics 101
+This is a repo for personal recordings of all the general homwework finished in the course of **The Guidance of Bioninfromatics** taught by Zhi LU in Tsinghua Unicersity
+<br>Hello World!
